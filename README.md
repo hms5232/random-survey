@@ -9,6 +9,12 @@
 
 之後將 `index.html` 作為入口發布，當使用者進入時就會由程式隨機抽出其中一個網址並將使用者重新導向過去。
 
+### 範例
+![GitHub deployments](https://img.shields.io/github/deployments/hms5232/random-survey/github-pages)
+
+本儲存庫的 Github Pages 將會依照 `url.js` 隨機將使用者導向本人的 Github 或 Gitlab 等地方。👇  
+https://hms5232.github.io/random-survey/
+
 ## 鳴謝
 本專案係參考[〈【html javascript】隨機分配問卷〉](http://g23988.blogspot.com/2015/08/html-javascript.html)之概念改寫而成。感謝前人大大的無私分享。
 
