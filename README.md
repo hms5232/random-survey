@@ -21,5 +21,9 @@ https://hms5232.github.io/random-survey/
 ## 鳴謝
 本專案係參考[〈【html javascript】隨機分配問卷〉](http://g23988.blogspot.com/2015/08/html-javascript.html)之概念改寫而成。感謝前人大大的無私分享。
 
+## 其他版本
+### Gitlab 🦊
+如果比較喜歡 Gitlab 或有什麼原因偏好 Gitlab，也可以參考 Gitlab Pages 的版本：https://gitlab.com/hms5232/bird-screen-url
+
 ## LICNESE
 See [LICENSE file](LICENSE).
