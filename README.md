@@ -12,6 +12,12 @@
 ### 教學文
 不才寫的一篇簡單教學文──[〈隨機分配問卷？讓 Github Pages 幫你吧！〉](https://hms5232.medium.com/%E9%9A%A8%E6%A9%9F%E5%88%86%E9%85%8D%E5%95%8F%E5%8D%B7-%E8%AE%93-github-pages-%E5%B9%AB%E4%BD%A0%E5%90%A7-764372f26cd9)，懇請各方斧正。
 
+### 有問題？
+
+請先看[常見問題](https://github.com/hms5232/random-survey/discussions/9)一文，如果沒辦法解決問題的話，可以至本專案的 [discussions Q&A 分類](https://github.com/hms5232/random-survey/discussions/categories/q-a)底下看看是否有人碰過相同問題。
+
+如果上述步驟都無法解決，請至本專案的 [discussions](https://github.com/hms5232/random-survey/discussions) 新增一則 Q&A 發問，問題得到解答後也請記得把答案 `mark as answer` 讓其他有相同問題的人後來可以找到答案。
+
 ### 範例
 ![GitHub deployments](https://img.shields.io/github/deployments/hms5232/random-survey/github-pages)
 
